@@ -3,6 +3,20 @@ Linear Sys is a linear system calculator using Gauss-Jordan method, made in Pyth
 
 Powered by Voilá.
 
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="/Users/danniel.vieira/Documents/PUC/GAAL/trabalho_combLinear/photos/Captura de Tela 2023-06-06 às 23.44.17.png" alt="Image 1" width="450"/></td>
+    <td><img src="/Users/danniel.vieira/Documents/PUC/GAAL/trabalho_combLinear/photos/Captura de Tela 2023-06-06 às 23.44.47.png" alt="Image 2" width="450"/></td>
+  </tr>
+  <tr>
+    <td><img src="/Users/danniel.vieira/Documents/PUC/GAAL/trabalho_combLinear/photos/Captura de Tela 2023-06-06 às 23.45.03.png" alt="Image 3" width="450"/></td>
+    <td><img src="/Users/danniel.vieira/Documents/PUC/GAAL/trabalho_combLinear/photos/Captura de Tela 2023-06-06 às 23.45.21.png" alt="Image 4" width="450"/></td>
+  </tr>
+</table>
+
+
 
 ## Instructions:
 
@@ -43,3 +57,5 @@ voila LinearSys.ipynb
 ```
 
 Voilà will run your notebook and display a URL where you can access your web app. By default, this URL will be http://localhost:8866/.
+
+If you want to use online, you can use the Notebook on Colab: https://colab.research.google.com/drive/1LRSgYOoUGrYNUf4gFEiTkjTQsEWJD2h9?usp=sharing
