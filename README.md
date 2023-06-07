@@ -3,6 +3,8 @@ Linear Sys is a linear system calculator using Gauss-Jordan method, made in Pyth
 
 Powered by Voilá.
 
+By Danniel Henrique Correa Vieira, Vítor Cabral Rodrigues Pires , João Marcos de Oliveira Magalhães , Davi Dias Magalhães
+
 ## Screenshots
 
 <table>
